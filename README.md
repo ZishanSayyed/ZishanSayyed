@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZishanSayyed
 - 👀 I’m Aspiring Data analyst| Digital Marketing| Mastering Statistics| R | Python | Tableau | Power BI |SQL | WordPress | Canva
 - 🌱 I’m currently learning Sql 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Data Sci Related Projects  ...
 - 📫 reach me at https://zishansayyed.wordpress.com/
 
 <!---
