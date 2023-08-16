@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZishanSayyed
-- 👀 I’m Aspiring Data analyst| Digital Marketing| Mastering Statistics| R | Python | Tableau | Power BI |SQL | WordPress | Canva
--   Senior Analyst with 2+ years of experience in social media monitoring and analysis, social listening data analysis, and Google Analytics. developing data-driven solutions |automate reports |engaging visualizations.
+-  Sr Data analyst| Digital Marketing| Msc Statistics| R | Python | Tableau | Power BI |SQL | WordPress | Canva
+-   Senior Analyst with 2+ years of experience in social media monitoring and analysis, social listening data analysis, and Google Analytics.
+-    developing data-driven solutions | automating reports |engaging visualizations.
 - 📫 reach me at https://zishansayyed.wordpress.com/
 
 <!---
