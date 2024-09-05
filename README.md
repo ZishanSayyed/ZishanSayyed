@@ -1,5 +1,7 @@
 # 💫 About Me:
-Automation Enthusiast | Senior Data Analyst cum Data Engineer | Expert in Web Analytics, Data Analysis, GA, GTM, CRM , Automation & Digital Marketing | Crafting Data-Driven Solutions & Engaging Visualizations
+As an automation enthusiast and Senior Data Analyst cum Data Engineer, I am passionate about turning data into action. With over 2 years of experience in web analytics and automation in a digital marketing agency, I excel at crafting data-driven solutions like Breathe and ALWAYS-ON AUDIT CWV. I specialize in automating continuous auditing, monitoring, and reporting to empower informed decision-making.
+
+Skilled in Google Analytics, social media analysis, GTM, and CRM development, I am eager to contribute by leveraging my expertise in workflow automation to enhance operational efficiency and extract maximum value from data. I am dedicated to developing engaging visualizations and automated reports that drive impactful insights and decisions.
 
 
 ## 🌐 Socials:
