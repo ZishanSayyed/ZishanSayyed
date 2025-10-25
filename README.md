@@ -1,7 +1,11 @@
 # 💫 About Me:
-As an automation enthusiast and Senior Data Analyst cum Data Engineer, I am passionate about turning data into action. With over 2 years of experience in web analytics and automation in a digital marketing agency, I excel at crafting data-driven solutions like Breathe and ALWAYS-ON AUDIT CWV. I specialize in automating continuous auditing, monitoring, and reporting to empower informed decision-making.
+As an Automation Enthusiast and Assistant Manager (Data Engineering) with over 3 years of experience in marketing analytics, workflow automation, and data engineering, I’m passionate about transforming complex data into actionable insights.
 
-Skilled in Google Analytics, social media analysis, GTM, and CRM development, I am eager to contribute by leveraging my expertise in workflow automation to enhance operational efficiency and extract maximum value from data. I am dedicated to developing engaging visualizations and automated reports that drive impactful insights and decisions.
+At [Interactive Avenues](https://www.interactiveavenues.com/), I’ve built data-driven automation systems such as Breathe Reproting Automation and ALWAYS-ON AUDIT CWV , Artlligence (Our in-house AI agent for reporting insight) and many more such solutions that empower teams with continuous auditing, performance monitoring, and automated reporting with AI insights.
+
+With expertise spanning Google Analytics (UA/GA4, GA360), GTM, GCP (BigQuery, Cloud Run), and Python-based automation, I design scalable, data-centric workflows that enhance operational efficiency and decision-making.
+
+I’m dedicated to leveraging data engineering, cloud automation, and visualization tools to deliver impactful insights, smarter decisions, and measurable business value.
 
 
 ## 🌐 Socials:
