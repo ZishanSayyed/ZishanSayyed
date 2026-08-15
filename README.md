@@ -1,37 +1,436 @@
-# 💫 About Me:
-As an Automation Enthusiast and Assistant Manager (Data Engineering) with over 3 years of experience in marketing analytics, workflow automation, and data engineering, I’m passionate about transforming complex data into actionable insights.
+<div align="center">
 
-@[Interactive Avenues](https://www.interactiveavenues.com/), I’ve built data-driven automation systems such as Breathe Reproting Automation and ALWAYS-ON AUDIT CWV , Artlligence (Our in-house AI agent for reporting insight) and many more such solutions that empower teams with continuous auditing, performance monitoring, and automated reporting with AI insights.
+# Zishan Sayyed
 
-With expertise spanning Google Analytics (UA/GA4, GA360), GTM, GCP (BigQuery, Cloud Run), and Python-based automation, I design scalable, data-centric workflows that enhance operational efficiency and decision-making.
+### Data Engineer · Cloud · Automation · AI
 
-I’m dedicated to leveraging data engineering, cloud automation, and visualization tools to deliver impactful insights, smarter decisions, and measurable business value.
+**I build data systems that turn complex data into reliable, automated intelligence.**
 
+<br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zishan.sayyed.18/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sayyedzishan563) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/zishan-sayyed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sayyedzishan563) 
+<a href="https://www.linkedin.com/in/zishan-sayyed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://zishansayyed.wordpress.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=wordpress&logoColor=white" />
+</a>
+<a href="https://github.com/ZishanSayyed">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZishanSayyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZishanSayyed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanSayyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZishanSayyed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=ZishanSayyed&style=flat-square&color=0A66C2&label=PROFILE+VIEWS" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZishanSayyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZishanSayyed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sayyedzishm) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zishan563) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `DATA` → `ENGINEERING` → `AUTOMATION` → `INTELLIGENCE`
+
+</div>
+
+<br>
+
+I’m a **Data Engineer** working at the intersection of **data engineering, cloud infrastructure, automation, and AI**.
+
+My background started in marketing analytics and digital measurement. Over time, I moved from **analyzing data** to building the systems that **collect, transform, enrich, automate and operationalize it**.
+
+Today, I build production-oriented solutions using **Python, SQL, BigQuery, GCP, APIs, FastAPI, Docker, LLMs and MCP**.
+
+---
+
+# What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### Data Engineering
+
+Designing pipelines that move data from APIs and multiple sources into reliable analytical systems.
+
+**Python · SQL · BigQuery · ETL/ELT · APIs**
+
+</td>
+<td width="50%">
+
+### Cloud & Backend
+
+Building cloud services and backend applications that power automated workflows.
+
+**GCP · Cloud Run · GCS · FastAPI · Docker**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Automation
+
+Replacing repetitive reporting, auditing and operational workflows with automated systems.
+
+**Python · APIs · Scheduled Jobs · Data Workflows**
+
+</td>
+<td width="50%">
+
+### AI Engineering
+
+Building practical AI applications that work with real data, tools and business workflows.
+
+**Gemini · LLMs · MCP · Tool Calling**
+
+</td>
+</tr>
+</table>
+
+---
+
+# Selected Work
+
+<div align="center">
+
+### Building systems, not just dashboards.
+
+</div>
+
+---
+
+## Creative AI Intelligence
+
+**AI-powered intelligence for advertising creatives**
+
+A system combining marketing performance data, computer vision and generative AI to understand advertising creatives across image and video formats.
+
+**What I worked on**
+
+`Creative Ingestion` · `Media Processing` · `Object Detection` · `Attention Analysis` · `AI Insights`
+
+**Stack**
+
+`Python` `BigQuery` `GCS` `Gemini` `YOLO` `OpenCV`
+
+---
+
+## Marketing Data Engineering
+
+**Turning fragmented marketing APIs into structured data products**
+
+Building pipelines that collect and transform data from multiple marketing platforms into centralized analytical systems.
+
+```text
+Google Ads ──┐
+Meta Ads ────┤
+GA4 ─────────┤
+Amazon Ads ──┤
+Other APIs ──┘
+       │
+       ▼
+   INGESTION
+       │
+       ▼
+ TRANSFORMATION
+       │
+       ▼
+  ENRICHMENT
+       │
+       ▼
+   BIGQUERY
+       │
+       ▼
+  AI / BI / APPS
+```
+
+**Stack**
+
+`Python` `SQL` `BigQuery` `GCS` `Cloud Run` `REST APIs`
+
+---
+
+## Marketing MCP
+
+**Connecting AI systems with real marketing data**
+
+Exploring and building MCP-based architectures that allow AI applications to interact with structured business and marketing data through controlled tools.
+
+**Integrations**
+
+`BigQuery` · `GA4` · `Meta Ads` · `Amazon Ads` · `Marketing APIs`
+
+**Stack**
+
+`Python` `MCP` `FastAPI` `LLMs` `REST APIs`
+
+---
+
+## AI Campaign Intelligence
+
+**From campaign brief → intelligence → execution**
+
+An AI-powered workflow combining trends, keyword intelligence, clustering, campaign generation, ad copy and creative workflows.
+
+```text
+Brief
+  ↓
+Trends
+  ↓
+Keywords
+  ↓
+Clustering
+  ↓
+Campaign
+  ↓
+Creative
+```
+
+**Stack**
+
+`Python` `FastAPI` `Gemini` `Google Ads` `Google Trends` `LLMs`
+
+---
+
+## Always-On Audit
+
+**Continuous monitoring instead of one-time reporting**
+
+Automated auditing and monitoring systems for digital properties and Core Web Vitals.
+
+**Focus**
+
+`Data Collection` · `Auditing` · `Monitoring` · `Validation` · `Reporting`
+
+**Stack**
+
+`Python` `GCP` `BigQuery` `APIs`
+
+---
+
+# Engineering Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,bash" />
+
+<br><br>
+
+### Data & Cloud
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,postgres,mysql" />
+
+<br><br>
+
+### Backend & Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,nginx" />
+
+<br><br>
+
+### AI & Data
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `SQL` · `BigQuery` · `GCP` · `Cloud Run` · `GCS` · `FastAPI` · `Docker`
+
+`REST APIs` · `ETL/ELT` · `Data Pipelines` · `Data Modelling` · `LLMs` · `MCP`
+
+</div>
+
+---
+
+# My Engineering Journey
+
+<div align="center">
+
+### Analytics
+
+**Marketing Data · Measurement · Reporting**
+
+↓
+
+### Automation
+
+**Workflow Automation · Auditing · Monitoring**
+
+↓
+
+### Data Engineering
+
+**Pipelines · APIs · BigQuery · Cloud**
+
+↓
+
+### AI Engineering
+
+**LLMs · MCP · AI Applications**
+
+</div>
+
+<br>
+
+The common thread has always been the same:
+
+> **Find a repetitive or fragmented process → engineer the system → automate it → add intelligence where it creates value.**
+
+---
+
+# Currently Building
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Data
+
+**Data Engineering**
+
+Pipelines
+ETL / ELT
+BigQuery
+Data Platforms
+
+</td>
+
+<td align="center" width="25%">
+
+### Cloud
+
+**Cloud Engineering**
+
+GCP
+Cloud Run
+Docker
+APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### AI
+
+**AI Engineering**
+
+LLMs
+MCP
+Tool Calling
+AI Agents
+
+</td>
+
+<td align="center" width="25%">
+
+### MarTech
+
+**Marketing Intelligence**
+
+Ads
+Analytics
+Creative AI
+Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# A Few Things About How I Work
+
+```text
+I prefer building over theorizing.
+
+I like APIs more than spreadsheets.
+
+I automate repetitive work.
+
+I care about data quality.
+
+I enjoy turning messy workflows into clean pipelines.
+
+I use AI as an engineering layer — not a replacement for engineering.
+```
+
+---
+
+# Beyond the Stack
+
+My current interests are around the convergence of:
+
+<div align="center">
+
+### Data Engineering
+
+**+**
+
+### Cloud Infrastructure
+
+**+**
+
+### AI Engineering
+
+**+**
+
+### Marketing Intelligence
+
+</div>
+
+The goal is to build systems where **data is the foundation, automation is the workflow, and AI is the intelligence layer.**
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZishanSayyed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanSayyed&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ZishanSayyed&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+### Interested in Data Engineering, AI, Cloud or MarTech?
+
+<br>
+
+<a href="https://www.linkedin.com/in/zishan-sayyed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://zishansayyed.wordpress.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=wordpress&logoColor=white" />
+</a>
+<a href="https://github.com/ZishanSayyed">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+</div>
